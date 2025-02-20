@@ -1,0 +1,15 @@
+Login utilisateurs
+
+LECTEUR
+
+URL : “http://localhost/online_library_part_1”
+Login : test@gmail.com
+Mot de passe : Test@123
+
+ADMINISTRATION
+
+URL : “http://localhost/online_library/library_part_1/admin”
+Login : admin
+Mot de passe : Test@123
+
+
